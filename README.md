@@ -69,7 +69,7 @@ Located in `app/app.py`, providing an interface to interact with the trained mod
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/Brain-Tumour-Classifier.git
+   git clone https://https://github.com/hiteshshanmukha/Brain_Tumour_Detection.git
    cd Brain-Tumour-Classifier
    ```
 
