@@ -1,0 +1,8 @@
+# Minimal requirements for running the web application only
+streamlit>=1.50.0
+torch>=1.8.0
+ultralytics>=8.0.0
+pillow>=8.0.0
+matplotlib>=3.3.0
+numpy>=1.19.0
+opencv-python>=4.5.0
