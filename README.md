@@ -3,6 +3,8 @@
 ## Project Overview
 This repository contains a comprehensive brain tumor classification system using various computer vision and deep learning approaches. The project implements multiple models for detecting and classifying brain tumors from MRI scans, including binary classification (tumor vs. no tumor) and multi-class classification (glioma, meningioma, no tumor).
 
+![Example of brain tumor segmentation showing original MRI scan with tumor mask overlay (left) and original MRI scan (right)](https://github.com/user-attachments/assets/dad8488a-7509-4787-a6a5-67cd65a2a11a)
+
 ## Repository Structure
 ```
 Brain Tumour Classifier/
